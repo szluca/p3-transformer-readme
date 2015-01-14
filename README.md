@@ -1,2 +1,5 @@
-# p3-transformer-readme
-Common structure for readmes.
+<name> Transformer
+=================
+Introduction:
+* What is it and what is it doing?
+* 
